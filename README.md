@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# My Crypto Space - smart-contract (on Rinkeby network)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Recommend me your fav songs. I promise Ill give it a try.
 
-Try running some of the following tasks:
+Built during @_buildspace's Solidity+Eth weekend challenge.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Live version 🔥: https://my-crypto-music-space.vercel.app/
+
+<img width="1144" alt="Screen Shot 2021-11-17 at 19 33 22" src="https://user-images.githubusercontent.com/18746683/142293216-22b5b82c-4ebf-4a5d-ac19-544740e8466f.png">
